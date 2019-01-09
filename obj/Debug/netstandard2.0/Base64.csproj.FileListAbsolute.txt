@@ -1,0 +1,9 @@
+C:\Github\Base64\obj\Debug\netstandard2.0\Base64.csprojAssemblyReference.cache
+C:\Github\Base64\obj\Debug\netstandard2.0\Base64.csproj.CoreCompileInputs.cache
+C:\Github\Base64\obj\Debug\netstandard2.0\Base64.AssemblyInfoInputs.cache
+C:\Github\Base64\obj\Debug\netstandard2.0\Base64.AssemblyInfo.cs
+C:\Github\Base64\bin\Debug\netstandard2.0\Base64.deps.json
+C:\Github\Base64\bin\Debug\netstandard2.0\Base64.dll
+C:\Github\Base64\bin\Debug\netstandard2.0\Base64.pdb
+C:\Github\Base64\obj\Debug\netstandard2.0\Base64.dll
+C:\Github\Base64\obj\Debug\netstandard2.0\Base64.pdb
